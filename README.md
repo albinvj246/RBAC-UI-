@@ -1,6 +1,9 @@
 The Role-Based Access Control (RBAC) UI project provides a web-based solution for managing users, roles, and permissions in an administrative environment. Administrators can assign roles to users, manage permissions for each role, and maintain control over user access and actions in the system. This project demonstrates secure, scalable, and user-friendly features to support organizations in controlling system access effectively.
 
-Setup and Installation Instructions
+Live(Deployed)
+http://rbac-ui-seven.vercel.app
+
+Setup and Installation Instructions (Manually)
 
 Prerequisites
 1.	Node.js: Ensure that Node.js is installed on your system. You can download it from Node.js Official Website.

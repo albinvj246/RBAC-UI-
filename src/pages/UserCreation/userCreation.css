@@ -1,0 +1,23 @@
+.custom-select {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  padding: 0.5rem 2.5rem 0.5rem 1rem;
+  border-radius: 0.375rem;
+  border: 1px solid #ced4da;
+  font-size: 1rem;
+  font-family: "Arial", sans-serif;
+  background: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zZWFyY2gvc3ZnIiB4bWw9InhtbG5zOmh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnaXBlMCI+PHBhdGggZD0iTTE1IDE0MkwxNSAyNEMxNy4xIDIzLjggMTguNyAyMCAxOCAyMEgyMCJzdHJva2U9IiAgPDwvZz4gPC9wYXRoPg==")
+    no-repeat scroll right center;
+  background-size: 12px;
+  background-position: right center;
+}
+
+.custom-select:focus {
+  border-color: #0069d9;
+  box-shadow: 0 0 0 0.2rem rgba(38, 143, 255, 0.5);
+}
+
+.custom-select:hover {
+  border-color: #0069d9;
+}

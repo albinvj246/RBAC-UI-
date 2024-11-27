@@ -10,8 +10,9 @@ Prerequisites
 Clone the Repository
 Open a terminal and run:
 
-git clone <repository-link>
-cd <project-folder>
+git clone [<repository-link>](https://github.com/albinvj246/RBAC-UI.git)
+
+cd RBAC-UI
 
 2. Install Dependencies
 Install the necessary dependencies using npm:

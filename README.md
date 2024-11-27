@@ -10,7 +10,7 @@ Prerequisites
 Clone the Repository
 Open a terminal and run:
 
-git clone [<repository-link>](https://github.com/albinvj246/RBAC-UI.git)
+git clone https://github.com/albinvj246/RBAC-UI.git
 
 cd RBAC-UI
 

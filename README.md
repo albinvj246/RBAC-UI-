@@ -4,6 +4,7 @@ Live(Deployed)
 http://rbac-ui-seven.vercel.app
 
 admin username: albinvj@gmail.com
+
 admin password: albinvj
 
 Setup and Installation Instructions (Manually)
